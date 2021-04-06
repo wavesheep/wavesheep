@@ -18,7 +18,3 @@ Here are some ideas to get you started:
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=wavesheep&count_private=true&show_icons=true&theme=dark" />
 </div>
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=wavesheep&layout=compact&theme=dark" />
-</div>
